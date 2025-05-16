@@ -1,3 +1,6 @@
+***Alunos:*** 
+* Eduardo Schneider
+* Bernardo Roorda 
 
 ---
 
