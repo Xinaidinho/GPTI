@@ -1,3 +1,7 @@
+# Alunos:
+    * Bernardo Roorda de Geus
+    * Eduardo Schneider
+
 ### 1) Gerenciamento da Qualidade
 
 A seguir, uma planilha de casos de teste focada no caso de uso principal do sistema: **"Realizar uma doação de pontos para uma ONG"**. Este fluxo abrange desde o login do doador até a confirmação da doação, testando o "caminho feliz" conforme definido no escopo.
